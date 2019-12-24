@@ -246,7 +246,7 @@ img{
     background-color: var(--overlay-color);
 }
 
-/* media queries */
+/* Media queries */
 @media only screen and (max-width: 600px) {
     .section-a .container{
         grid-template-columns: 1fr;
